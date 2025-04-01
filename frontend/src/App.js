@@ -85,7 +85,7 @@ function App() {
   return (
     <div className="App">
       <h1>Auction Products</h1>
-
+<h1>Akashpreet Singh</h1>
       {products.length > 0 && (
         <div className="slider">
           <div className="card">
